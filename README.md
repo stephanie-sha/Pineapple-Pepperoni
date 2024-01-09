@@ -1,5 +1,4 @@
-# Pineapple-Pepperoni
-
+# Pineapple Pepperoni
 
 Capstone Video Project, MIT 15.089 Analytics Capstone
 
@@ -10,4 +9,4 @@ Team Members: [Jason Jia](https://www.linkedin.com/in/jasonjiajs/), [Stephanie S
 </div>
 
 # Summary
-Create a pizza restaurant for Mr. Pineapple Pepperoni in 24 hours.
+We created a marketing and operations plan for Mr. Pineapple Pepperoni's pizza restaurant in 24 hours.
