@@ -1,5 +1,4 @@
 # Pineapple Pepperoni
-
 Capstone Video Project, MIT 15.089 Analytics Capstone <br>
 Team Members: [Jason Jia](https://www.linkedin.com/in/jasonjiajs/), [Stephanie Sha](www.linkedin.com/in/ousha/)
 
