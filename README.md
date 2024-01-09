@@ -4,7 +4,7 @@ Team Members: [Jason Jia](https://www.linkedin.com/in/jasonjiajs/), [Stephanie S
 
 <p float="left">
   <img src="/mr_pineapple_pepperoni.jpeg" width="400" /> 
-  <img src="/pizza.jpeg" width="400" />
+  <img src="/Pizza.jpeg" width="400" />
 </p>
 
 ## Summary
